@@ -6,14 +6,17 @@ html, body {
     background-color: rgb(133, 151, 133);
 }
 #container {
-    width: 800px;
+    width: 805px;
     height: 500px;
     margin: 0;
     padding: 0;
     background-color: rgb(255, 255, 255);
     margin: auto;
     margin-top: 150px;
-    box-shadow: 10px 5px 5px rgb(56, 49, 49);}
+    box-shadow: 10px 5px 5px rgb(56, 49, 49);
+    border-radius: 5px;
+
+}
 h1 {
     margin: 0;
     padding: 0;
@@ -23,7 +26,6 @@ h1 {
     position: absolute;
     top: 600px;
     left: 560px;
-
 }
 
 .button {
