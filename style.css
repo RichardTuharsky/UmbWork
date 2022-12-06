@@ -1,0 +1,46 @@
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(133, 151, 133);
+}
+#container {
+    width: 800px;
+    height: 500px;
+    margin: 0;
+    padding: 0;
+    background-color: rgb(255, 255, 255);
+    margin: auto;
+    margin-top: 150px;
+    box-shadow: 10px 5px 5px rgb(56, 49, 49);}
+h1 {
+    margin: 0;
+    padding: 0;
+}
+
+.input {
+    position: absolute;
+    top: 600px;
+    left: 560px;
+
+}
+
+.button {
+    position: absolute;
+    left: 280px;
+    bottom: 0px;
+}
+
+.sort {
+    position: absolute;
+    right: 570px;
+    top: 620px;
+}
+
+.usporiadanie {
+    position:absolute;
+    right: 660px;
+    top: 620px;
+    
+}
